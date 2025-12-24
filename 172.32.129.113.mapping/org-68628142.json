@@ -4,6 +4,14 @@
   "counter" : 0,
   "additionalMapping" : { }
 }, {
+  "originalGuid" : "7c310bf8-ed9e-4a20-875a-68e2617697c5",
+  "mappedGuid" : "7c310bf8-ed9e-4a20-875a-68e2617697c5",
+  "counter" : 0,
+  "additionalMapping" : {
+    "d1de6ecf-7e26-432f-ad96-385d33b2959a" : "165d823b-390c-4cdb-9393-2b29f840490d",
+    "71eeda77-f103-41b6-b4a8-ba681a9a92b4" : "b6b04a15-556d-49c7-bdc2-b0c17a573259"
+  }
+}, {
   "originalGuid" : "8adf3ccc-0df0-4483-b340-4cb520366a9d",
   "mappedGuid" : "fbb0636d-e87c-480f-a527-d809713ee05a",
   "counter" : 0,
